@@ -1,2 +1,2 @@
 # selenium-java
-this reposiitory consists of selenium test cases codes using java
+this repository consists of selenium test cases codes using java 
